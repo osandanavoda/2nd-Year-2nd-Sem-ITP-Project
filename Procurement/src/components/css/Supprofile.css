@@ -1,0 +1,79 @@
+
+.usericon{
+    width: 85px;
+    height: 80px;
+    margin-left: 1050px;
+    margin-top: -3150px;
+}
+
+.profilepgname{
+    color: rgb(241, 155, 43);
+   -webkit-text-stroke: 1px black;
+    position: relative;
+    left: 550px;
+    top: -100px;
+}
+
+.Supprof{
+    background-size: cover;
+    background-image: url("../images/supprofile.jpg");
+    height: 517px;
+}
+
+.Transparentbox{
+    background: flex;
+    flex-direction: column;
+    position: relative;
+    top: -115px;
+    width: 310px;
+    height: 450px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: inset -5px -5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    left: -200px;
+}
+
+.Supprofbox1{
+    background: #D3D3D3;
+    position: relative;
+    top: -585px;
+    left: 185px;
+    width: 460px;
+    height: 450px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+
+.aboutfont{
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.horizantal-line{
+    width: 90px;
+    height: 2px;
+    background-color: black;
+    position: relative;
+    top: 17px;
+    left: 9px;
+}
+
+.fontinabout{
+    position: relative;
+    left: 20px;
+    top: -30px;
+}
+
+.fontinabout2{
+    position: relative;
+    left: 260px;
+    top: -318px; 
+}

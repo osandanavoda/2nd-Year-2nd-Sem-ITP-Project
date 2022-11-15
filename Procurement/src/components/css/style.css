@@ -1,0 +1,16 @@
+.exam{
+    margin-left: 8%;
+}
+
+.Report-Gen-Btn{
+    width: 147px;
+    height: 55px;
+    background-color: lightseagreen;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -490px;
+    left: 88%;
+    border-radius: 10px;
+    
+}

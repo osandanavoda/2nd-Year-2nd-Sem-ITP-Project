@@ -1,0 +1,55 @@
+.Pgnavbox{
+    background: #D3D3D3;
+    position: relative;
+    top: 25px;
+    width: 660px;
+    height: 250px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Pgnavi{
+    background-image: url("../images/Navpg.jpg");
+    background-size: cover;
+    height: 530px;
+
+}
+
+.Procu-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 76px;
+    left: -15px;
+    background: #FFA500;
+    border-radius: 10px;
+   
+
+}
+
+.Sup-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 75px;
+    left: 5px;
+    background: #FFA500;
+    border-radius: 10px;
+}
+
+.dash3{
+    margin-left: 80%;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+   
+    
+}
+
