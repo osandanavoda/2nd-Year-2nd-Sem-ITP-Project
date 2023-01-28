@@ -1,0 +1,157 @@
+
+    .box7{
+        background: flex;
+        flex-direction: column;
+        position: relative;
+        top: -65px;
+        width: 910px;
+        height: 410px;
+        padding: 10px;
+        border: 2px solid gray;
+        margin: 20px auto;
+        border-radius: 10px;
+        background-color:  rgba(248, 236, 236, 0.4);
+        box-shadow: inset -5px -5px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        left: 20px;
+    }
+
+    .Listofregsup{
+     
+        background-image: url("../images/listofsup.jpg");
+        background-size: cover;
+        height: 550px;
+    }
+
+    .Download-button7{
+        width: 4px;
+        height: 2px;
+        left: 70px;
+        cursor: pointer;
+        box-shadow: 1px 1px 1px 1px;
+        position: relative;
+        top: -15px;
+        background: #0096FF;
+        border-radius: 3px;
+    }
+
+    .table{
+       
+        margin:auto;
+        text-align: center;
+        margin-top:-4px;
+        
+      
+    }
+
+    .pgname7{
+        position: relative;
+        top: -84px; 
+        left: 10px;
+        color: #19ADE8;
+        -webkit-text-stroke: 1px black;
+    }
+    /*Get Request CSS*/
+    .getreqpgname{
+        position: relative;
+        top: -54px; 
+        left: 42%;
+        color: #b7e420;
+        -webkit-text-stroke: 1px black;
+    }
+    
+    .usericon{
+        position: relative;
+        width: 85px;
+        height: 80px;
+        left: 90px;
+        top: -24px;
+    }
+
+    .dash7{
+        margin-left: 1111px;
+        font-size: 25px;
+        color: rgb(0, 0, 0);
+        position: relative;
+        top: 15px;   
+    }
+
+    .Delete-button7{
+        width: 100px;
+        height: 45px;
+        cursor: pointer;
+        box-shadow: 1px 1px 1px 1px;
+        position: relative;
+        top: -354px;
+        left: 553px;
+        background: #FFA500;
+        border-radius: 10px;
+    }
+
+    .Update-button7{
+        width: 100px;
+        height: 45px;
+        cursor: pointer;
+        box-shadow: 1px 1px 1px 1px;
+        position: relative;
+        top: -426px;
+        left: 653px;
+        background: #FFA500;
+        border-radius: 10px;
+    }
+
+    
+    .Add-button7{
+        width: 100px;
+        height: 45px;
+        cursor: pointer;
+        box-shadow: 1px 1px 1px 1px;
+        position: relative;
+        top: -279px;
+        left: 453px;
+        background: #FFA500;
+        border-radius: 10px;
+    }
+
+    .supsearch{
+        width: 300px;
+        height: 35px;
+        margin-top: 40px;
+        margin-left: 268%;
+
+    }
+    .searchbtn{
+        position: relative;
+        width: 30px;
+        height: 35px;
+        top: 38px;
+    }
+
+    .Report-button{
+        width: 50px;
+        height: 55px;
+        cursor: pointer;
+        box-shadow: 1px 1px 1px 1px;
+        position: relative;
+        top: -490px;
+        left: 10%;
+        background-image:url("../images/pdficon.png");
+        background-size: cover;
+        border-radius: 10px;
+    }
+
+    .Pdftext{
+        position: relative;
+        top: -490px;
+        left: 124px;
+        font-size: 20px;
+
+    }
+
+    /*Get Request CSS*/
+    .getreq{
+        background-image: url("../images/Getreqpg.jpg"); 
+        background-size:cover;
+        height: 515px;
+    
+    }

@@ -1,0 +1,52 @@
+.box4{
+    background: #D3D3D3;
+    position: relative;
+    top: -35px;
+    width: 360px;
+    height: 350px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Procurepage{
+    background-image: url("../images/procupg.jpg");
+    background-size: cover;
+
+}
+
+.Supplier-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 56px;
+    background: #B06AB3;
+    border-radius: 10px;
+   
+
+}
+
+.Imports-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 120px;
+    background: #B06AB3;
+    border-radius: 10px;
+}
+
+.dash3{
+    margin-left: 80%;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+   
+    
+}
+

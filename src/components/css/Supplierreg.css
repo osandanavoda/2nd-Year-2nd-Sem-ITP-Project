@@ -1,0 +1,138 @@
+.dash6{
+    margin-left: 1130px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 30px;   
+}
+
+.usericon{
+    width: 85px;
+    height: 80px;
+    margin-left: 1050px;
+    margin-top: -3150px;
+}
+
+.Supplierreg{
+    background-image: url("../images/Supreg2img.jpg");
+    background-size: cover;
+    height:530px;
+}
+
+.pgname{
+    margin-top: 10px;
+}
+
+.placeholder{
+    position: relative;
+    top: 40px;
+    border: 100px;
+    
+}
+
+.box6{
+    background: linear-gradient(135deg, #e1e448, #c857f5);
+    position: relative;
+    top: -139px;
+    width: 360px;
+    height: 480px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.box6Title{
+    position: relative;
+    top: 5px;
+    left: 120px; 
+}
+
+.fileinput{
+    position: relative;
+    left: 40px;
+}
+
+.Save-button6{
+    width: 40px;
+    height: 20px;
+    left: 60px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -35px;
+    background: #0096FF;
+    border-radius: 3px;
+}
+
+.Cancle-button6{
+    width: 40px;
+    height: 20px;
+    left: 69px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -35px;
+    background: #0096FF;
+    border-radius: 3px;
+}
+
+.reg-button6{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 13px;
+    background: #B06AB3;
+    border-radius: 10px;
+    left: 119px;
+    background: #7EE8FA; 
+}
+
+.form-group6-1{
+    width: 210px;
+    position: relative;
+    top: -15px;
+    left: -20px;
+}
+
+.form-group6-2{
+    width: 210px;
+    position: relative;
+    top: -45px;
+    left: -20px;
+}
+
+.form-group6-3{
+    width: 210px;
+    position: relative;
+    top: -25px;
+    left: -20px;
+}
+
+.form-group6-4{
+    width: 210px;
+    position: relative;
+    top: -5px;
+    left: -20px;
+}
+
+.form-group6-5{
+    width: 210px;
+    position: relative;
+    top: 10px;
+    left: -20px;
+}
+
+.BRCFont{
+    position:relative;
+    left: 50px;
+    top: 10px;
+}
+
+.pgname6{
+    position: relative;
+    left: 100px;
+    top:-90px;
+}

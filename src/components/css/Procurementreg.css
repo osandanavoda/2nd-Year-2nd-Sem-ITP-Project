@@ -1,0 +1,169 @@
+.box{
+    background: linear-gradient(135deg, #90EE90, #c857f5);
+    position: relative;
+    top: -50px;
+    width: 400px;
+    height: 440px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+ 
+}
+
+.Supregbox{
+    background: linear-gradient(135deg, #dcf808, #881ed8);
+    position: relative;
+    top: -100px;
+    width: 400px;
+    height: 440px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+ 
+}
+
+.Supupdatebox{
+    background: linear-gradient(135deg, #6a71f0, #2ae230);
+    position: relative;
+    top: -50px;
+    width: 400px;
+    height: 440px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+ 
+}
+
+.Procurereg{
+     
+    background-image: url("../images/procureg.jpg");
+    background-size:cover;
+    height:530px;
+}
+
+.Supreg2{
+     
+    background-image: url("../images/Supreg2img.jpg");
+    background-size:cover;
+    height:530px;
+}
+
+.Supupdatebody{
+    background-image: url("../images/Supupdatepg.jpg");
+    background-size:cover;
+    height:530px;
+}
+
+.form-group1{
+    width: 150px;
+    position: relative;
+    top: 45px;
+    left: -50px;
+}
+
+.form-group2{
+    width: 150px;
+    position: relative;
+    top: 7px;
+    right: -110px;
+   
+}
+
+.form-group3{
+    width: 310px;
+    position: relative;
+    top: 25px;
+    left: -50px;
+   
+}
+
+.form-group4{
+    width: 310px;
+    position: relative;
+    top: 45px;
+    left: -50px;
+   
+}
+
+.form-group5{
+    width: 310px;
+    position: relative;
+    top: 65px;
+    left: -50px;
+   
+}
+
+.form-group6{
+    width: 310px;
+    position: relative;
+    top: 85px;
+    left: -50px;
+   
+}
+
+
+.reg-button{
+    position: relative;
+    top: 105px;
+    width: 135px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    background: #B06AB3;
+    border-radius: 5px;
+    background: #7EE8FA; 
+    left: 30%;
+
+}
+
+.Supreg-button{
+    position: relative;
+    top: 105px;
+    width: 135px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 5px;
+    background: #f4b223; 
+    left: 30%;
+
+}
+
+.box1Title{
+    position: relative;
+    top: 15px;
+    margin-left: 35%;
+}
+
+.dash1{
+    margin-left: 1130px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;   
+}
+
+.usericon{
+    position: relative;
+    left: 100px;
+    top: -15px;
+}
+
+.pgname{
+    color: azure;
+}
+
+.Suppgname{
+    position: relative;
+    color:aliceblue;
+    left: 100px;
+    top:-90px;
+}
+
+.SupupboxTitle{
+    position: relative;
+    top: 15px;
+    margin-left: 23%;
+}

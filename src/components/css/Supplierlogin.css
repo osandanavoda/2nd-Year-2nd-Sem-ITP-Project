@@ -1,0 +1,104 @@
+.Supplierlogin{
+    background-size: cover;
+    height:550px;
+
+}
+
+.usericon{
+    width: 85px;
+    height: 80px;
+    margin-left: 1050px;
+    margin-top: -3000px;
+}
+
+.dash5{
+    margin-left: 1130px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 30px;   
+}
+
+.box4-1{
+    background: #ffffff;
+    position: relative;
+    right: 150px;
+    top: -40px;
+    width: 310px;
+    height: 430px;
+    padding: 10px;
+    box-shadow: 1px 0px 1px 1px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.box4-2{
+    background: #B06AB3;
+    position: relative;
+    left: 157px;
+    top: -685px;
+    width: 310px;
+    height: 430px;
+    padding: 10px;
+    box-shadow: 1px 0px 1px 1px;
+    margin: 20px auto;
+    border-radius: 3px;
+}
+
+.box5Title{
+    position: relative;
+    top: -435px;
+    right: 150px;
+}
+
+.placeholder5{
+    position: relative;
+    top: -360px;
+    right: 130px;
+    border: 100px;
+    
+}
+
+.Login-button5{
+    width: 100px;
+    height: 43px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    background: #B06AB3;
+    border-radius: 10px;
+    left: -150px;
+    top: -290px;
+    background: #7EE8FA; 
+}
+
+.notregifont2{
+    position: relative;
+    top: 140px;
+}
+
+.RegisterNow2{
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 56px;
+    background: #FEB47B;
+    border-radius: 10px;
+    left: -4px;
+    top: 180px;
+
+}
+
+.pgname5{
+    position: relative;
+    left: 100px;
+    top:-90px;
+    color:#ffffff
+}
+
+.mainbox{
+    position: relative;
+    top: -67px;
+}

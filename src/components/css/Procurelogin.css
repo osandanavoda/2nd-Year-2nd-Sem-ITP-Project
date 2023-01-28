@@ -1,0 +1,81 @@
+.dash2{
+    margin-left: 1130px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;   
+}
+
+.usericon{
+    position: relative;
+    left: 100px;
+    top: -15px;
+}
+
+.pgname{
+    color: rgb(255, 255, 255);
+}
+
+.Log-button{
+    position: relative;
+    top: 190px;
+    width: 135px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    background: #D0BDF0;
+    border-radius: 5px;
+    
+
+}
+
+.form-group11{
+    width: 320px;
+    position: relative;
+    top: 75px;
+    left: -80px;
+}
+
+.form-group13{
+    width: 320px;
+    position: relative;
+    top: 135px;
+    left: -80px;
+   
+}
+
+.box3{
+    background: linear-gradient(135deg, #0be4d9, #f9d553);
+    position: relative;
+    top: -60px;
+    width: 360px;
+    height: 440px;
+    left: 30px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Procurelogin{
+     
+    background-image: url("../images/procloginimg.jpg");
+    background-size:cover;
+    height:550px;
+}
+
+.box2Title{
+    position: relative;
+    top: 25px;
+}
+
+.notregifont1{
+    position:relative;
+    top: 50%;
+    right: 12%;
+}
+
+.reghyperlink{
+    position: relative;
+    top: 44%;
+    left: 17%;
+}
